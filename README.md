@@ -9,3 +9,15 @@ The process involves collecting a large dataset of news articles from various so
 Newspaper summarization AI project has the potential to revolutionize the way people consume news and improve access to information. It can help to save time and reduce information overload by providing quick and accurate summaries of news articles. Additionally, it can help to make news more accessible to people who may have difficulty reading long articles or have limited time to stay updated on current events.
 
 Overall, newspaper summarization AI project is an exciting field with many potential applications, including news aggregation, content recommendation, and personalized news delivery. It has the potential to significantly impact the way people consume news and access information in the digital age.
+
+The process typically involves the following steps:
+
+Data Collection: Gathering large amounts of news articles from various sources.
+
+Preprocessing: Cleaning the data, removing any noise or irrelevant information, and converting the text into a format suitable for NLP analysis.
+
+Feature Extraction: Identifying key features and important information in the articles, such as keywords, entities, and sentiment.
+
+Summarization: Generating a summary of the article based on the key features identified in step 3. This can be done using various techniques, such as extraction-based, abstraction-based, or hybrid approaches.
+
+Evaluation: Measuring the quality of the generated summaries using metrics such as ROUGE, BLEU, and F1 scores.
